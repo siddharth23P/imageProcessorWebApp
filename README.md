@@ -1,7 +1,7 @@
 # imageProcessorWebApp
 Basic Image Processing web app using flask and opencv
 
-[To run] 
+# [To run] 
 
 install pyenv
 
@@ -26,10 +26,16 @@ Voila!! The application is now running on local server
 Open preffered Browser (firefox/chrome)
 http://127.0.0.1:5000/ - to open the app in browser
 
-[Features]
+# [Features]
+
 1.Convert to Binary
+
 2.Constrast Stretching
+
 3.Histogram Equalization in R G B and then Merge
+
 4.Convert to Negative
+
 5.Power level transform
+
 6.Remove Noise using bilateralFiltering
