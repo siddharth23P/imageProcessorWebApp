@@ -3,6 +3,7 @@ Basic Image Processing web app using flask and opencv
 
 # [To run] 
 
+make folder named uploads to store files after uploading and processing
 install pyenv
 
 Then,
